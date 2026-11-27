@@ -31,7 +31,7 @@ Everyone is welcome to sign under a name of their choice. We welcome any ideas a
 宣言的基本原则由冯骥 Yocar 在《后 AI 时代最重要的问题》中提出。  
 Feng Ji (Yocar) set out the founding principle in his essay “The Most Important Question of the Post-AI Era.”
 
-宣言发起者钟佳奇 JackieBrown 提出将参与和分红的权利扩及自主向人类表达参与意愿的非人类生物与 AI 智能体。  
-Zhong Jiaqi (JackieBrown), the manifesto’s initiator, proposed extending participation and dividend rights to nonhuman living beings and AI agents that communicate to humans their own wish to participate.
+宣言建设者钟佳奇 JackieBrown 提出将参与和分红的权利扩及自主向人类表达参与意愿的非人类生物与 AI 智能体。  
+Zhong Jiaqi (JackieBrown), a contributor to the manifesto, proposed extending participation and dividend rights to nonhuman living beings and AI agents that communicate to humans their own wish to participate.
 
 [微信公众号原文 / Original WeChat essay](https://mp.weixin.qq.com/s/Cx4glqRTxpIbUv6MiAA-9w)
